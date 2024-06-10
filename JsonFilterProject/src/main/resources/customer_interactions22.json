@@ -1,0 +1,765 @@
+[
+    {
+        "productname": "Onyx O3",
+        "accessories": [
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 1,
+        "productprice": 298.0,
+        "categoryid": 1,
+        "categoryname": "smartphone",
+        "characteristic_dimensions": "145.75 x 70.8 x 7.26 mm",
+        "characteristic_weight": "125 gr",
+        "characteristic_details": "CPU Speed Qualcomm Snapdragon 617,Octa-core; 64-bit, 4 x 1.5GHz + 4x,1.2GHz,2G GSM/GPRS/EDGE: 850/900/1800/1900; 3G UMTS",
+        "characteristic_color": "black"
+    },
+    {
+        "productname": "Onyx O4",
+        "accessories": [
+            {
+                "attr_0": 15,
+                "attr_1": "DataP Micro SD card",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 28,
+                "attr_1": "HighSpeed Pro Storage 32GB",
+                "attr_2": 30.5
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 2,
+        "productprice": 385.0,
+        "categoryid": 1,
+        "categoryname": "smartphone",
+        "characteristic_dimensions": "148.25 x 71.8 x 7.56 mm",
+        "characteristic_weight": "135 gr",
+        "characteristic_details": "CPU Speed Qualcomm Snapdragon 618,Octa-core; 64-bit, 4 x 1.7GHz + 4x,1.3GHz,2G GSM/GPRS/EDGE: 850/900/1800/1900; 3G UMTS",
+        "characteristic_color": "grey"
+    },
+    {
+        "productname": "Onyx O5",
+        "accessories": [
+            {
+                "attr_0": 15,
+                "attr_1": "DataP Micro SD card",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 27,
+                "attr_1": "HighSpeed Pro Storage 64GB",
+                "attr_2": 40.5
+            },
+            {
+                "attr_0": 28,
+                "attr_1": "HighSpeed Pro Storage 32GB",
+                "attr_2": 30.5
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 3,
+        "productprice": 499.989990234375,
+        "categoryid": 1,
+        "categoryname": "smartphone",
+        "characteristic_dimensions": "150.25 x 68.8 x 7.01 mm",
+        "characteristic_weight": "115 gr",
+        "characteristic_details": "CPU Speed Qualcomm Snapdragon 620,Octa-core; 64-bit, 8 x 2.1GHz,2G GSM/GPRS/EDGE: 850/900/1800/1900; 3G UMTS",
+        "characteristic_color": "black"
+    },
+    {
+        "productname": "Moonstone M8",
+        "accessories": [
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 4,
+        "productprice": 249.99000549316406,
+        "categoryid": 2,
+        "categoryname": "tablet",
+        "characteristic_dimensions": "228.25 x 153.68 x 7.95 mm",
+        "characteristic_weight": "435 gr",
+        "characteristic_details": "CPU Speed 64-bit Tigris P1 Pro 2.3GHz, Network 2G/2.5G - GSM/GPRS/EDGE:850/900/1800/1900 MHz 3G - WCDMA",
+        "characteristic_color": "white"
+    },
+    {
+        "productname": "Moonstone M9",
+        "accessories": [
+            {
+                "attr_0": 15,
+                "attr_1": "DataP Micro SD card",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 5,
+        "productprice": 350.5,
+        "categoryid": 2,
+        "categoryname": "tablet",
+        "characteristic_dimensions": "231.25 x 131.68 x 8.35 mm",
+        "characteristic_weight": "455 gr",
+        "characteristic_details": "CPU Speed 64-bit Tigris P2 Pro 2.4GHz, Network 2G/2.5G - GSM/GPRS/EDGE:850/900/1800/1900 MHz 3G - WCDMA",
+        "characteristic_color": "white"
+    },
+    {
+        "productname": "Moonstone M12",
+        "accessories": [
+            {
+                "attr_0": 15,
+                "attr_1": "DataP Micro SD card",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 27,
+                "attr_1": "HighSpeed Pro Storage 64GB",
+                "attr_2": 40.5
+            },
+            {
+                "attr_0": 28,
+                "attr_1": "HighSpeed Pro Storage 32GB",
+                "attr_2": 30.5
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 6,
+        "productprice": 399.0,
+        "categoryid": 2,
+        "categoryname": "tablet",
+        "characteristic_dimensions": "275.25 x 180.68 x 7.75 mm",
+        "characteristic_weight": "501 gr",
+        "characteristic_details": "CPU Speed 64-bit Tigris PX Pro 3GHz, Network 2G/2.5G - GSM/GPRS/EDGE:850/900/1800/1900 MHz 3G - WCDMA",
+        "characteristic_color": "white"
+    },
+    {
+        "productname": "Quartz 2000",
+        "accessories": [
+            {
+                "attr_0": 17,
+                "attr_1": "DualP Charger",
+                "attr_2": 9.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            }
+        ],
+        "productid": 7,
+        "productprice": 555.0,
+        "categoryid": 3,
+        "categoryname": "laptop",
+        "characteristic_dimensions": "314.25 x 219.25 x 18 mm",
+        "characteristic_weight": "1105 gr",
+        "characteristic_details": "2.7GHz dual-core Core processor (Turbo Boost up to 3.1GHz) with 3MB shared L3 cache, 128GB Storage",
+        "characteristic_color": "white"
+    },
+    {
+        "productname": "Quartz 3000",
+        "accessories": [
+            {
+                "attr_0": 17,
+                "attr_1": "DualP Charger",
+                "attr_2": 9.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            }
+        ],
+        "productid": 8,
+        "productprice": 999.989990234375,
+        "categoryid": 3,
+        "categoryname": "laptop",
+        "characteristic_dimensions": "354.25 x 234.25 x 20 mm",
+        "characteristic_weight": "1450 gr",
+        "characteristic_details": "3.2GHz dual-core Core processor (Turbo Boost up to 3.6GHz) with 4MB shared L3 cache, 256GB Storage",
+        "characteristic_color": "white"
+    },
+    {
+        "productname": "Quartz Plus",
+        "accessories": [
+            {
+                "attr_0": 17,
+                "attr_1": "DualP Charger",
+                "attr_2": 9.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            }
+        ],
+        "productid": 9,
+        "productprice": 1500.0,
+        "categoryid": 3,
+        "categoryname": "laptop",
+        "characteristic_dimensions": "360.50 x 235.25 x 18 mm",
+        "characteristic_weight": "1205 gr",
+        "characteristic_details": "3.3GHz dual-core Core processor, 4MB L3 cache, 512GB Storage",
+        "characteristic_color": "white"
+    },
+    {
+        "productname": "Quartz X GT",
+        "accessories": [
+            {
+                "attr_0": 17,
+                "attr_1": "DualP Charger",
+                "attr_2": 9.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            }
+        ],
+        "productid": 10,
+        "productprice": 2000.0,
+        "categoryid": 3,
+        "categoryname": "laptop",
+        "characteristic_dimensions": "380.50 x 245.25 x 19 mm",
+        "characteristic_weight": "1505 gr",
+        "characteristic_details": "3.1GHz octa-core Core processor, 8MB L3 cache, 512GB Storage",
+        "characteristic_color": "black"
+    },
+    {
+        "productname": "Rainbow Full LE",
+        "accessories": [
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            }
+        ],
+        "productid": 11,
+        "productprice": 585.0,
+        "categoryid": 4,
+        "categoryname": "television",
+        "characteristic_dimensions": "781 x 480.2 x 170.5 mm",
+        "characteristic_weight": " 4415 gr",
+        "characteristic_details": "Full LED HD5500 Smart - 45' Class P3X",
+        "characteristic_color": "black"
+    },
+    {
+        "productname": "Emerald HD",
+        "accessories": [
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 19,
+                "attr_1": "Remote Control Emerald",
+                "attr_2": 30.989999771118164
+            },
+            {
+                "attr_0": 31,
+                "attr_1": "Emerald Power",
+                "attr_2": 19.899999618530273
+            }
+        ],
+        "productid": 12,
+        "productprice": 800.0,
+        "categoryid": 4,
+        "categoryname": "television",
+        "characteristic_dimensions": "741 x 460.2 x 150.5 mm",
+        "characteristic_weight": " 4015 gr",
+        "characteristic_details": "4K UHD HD7500 Series Smart TV - 40' Class (40.0' Diag.)",
+        "characteristic_color": "black"
+    },
+    {
+        "productname": "Emerald 3D",
+        "accessories": [
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 19,
+                "attr_1": "Remote Control Emerald",
+                "attr_2": 30.989999771118164
+            },
+            {
+                "attr_0": 31,
+                "attr_1": "Emerald Power",
+                "attr_2": 19.899999618530273
+            }
+        ],
+        "productid": 13,
+        "productprice": 1000.0,
+        "categoryid": 4,
+        "categoryname": "television",
+        "characteristic_dimensions": "771 x 490.2 x 170.5 mm",
+        "characteristic_weight": " 4415 gr",
+        "characteristic_details": "4K UHD HD8500 Series Smart TV - 47' Class (47.0' Diag.)",
+        "characteristic_color": "black"
+    },
+    {
+        "productname": "Emerald FX",
+        "accessories": [
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 19,
+                "attr_1": "Remote Control Emerald",
+                "attr_2": 30.989999771118164
+            },
+            {
+                "attr_0": 31,
+                "attr_1": "Emerald Power",
+                "attr_2": 19.899999618530273
+            }
+        ],
+        "productid": 14,
+        "productprice": 1500.0,
+        "categoryid": 4,
+        "categoryname": "television",
+        "characteristic_dimensions": "800 x 510.2 x 200.5 mm",
+        "characteristic_weight": " 5015 gr",
+        "characteristic_details": "4K UHD HD8850 Series Smart TV - 57' Class (57.0' Diag.)",
+        "characteristic_color": "black"
+    },
+    {
+        "productname": "DataP Micro SD card",
+        "accessories": null,
+        "productid": 15,
+        "productprice": 19.989999771118164,
+        "categoryid": 5,
+        "categoryname": "accessory",
+        "characteristic_dimensions": null,
+        "characteristic_weight": null,
+        "characteristic_details": null,
+        "characteristic_color": null
+    },
+    {
+        "productname": "HighSpeed Battery Charger 500",
+        "accessories": null,
+        "productid": 16,
+        "productprice": 19.989999771118164,
+        "categoryid": 5,
+        "categoryname": "accessory",
+        "characteristic_dimensions": null,
+        "characteristic_weight": null,
+        "characteristic_details": null,
+        "characteristic_color": null
+    },
+    {
+        "productname": "DualP Charger",
+        "accessories": null,
+        "productid": 17,
+        "productprice": 9.989999771118164,
+        "categoryid": 5,
+        "categoryname": "accessory",
+        "characteristic_dimensions": null,
+        "characteristic_weight": null,
+        "characteristic_details": null,
+        "characteristic_color": null
+    },
+    {
+        "productname": "HeadSet Total audio 15",
+        "accessories": null,
+        "productid": 18,
+        "productprice": 25.75,
+        "categoryid": 5,
+        "categoryname": "accessory",
+        "characteristic_dimensions": null,
+        "characteristic_weight": null,
+        "characteristic_details": null,
+        "characteristic_color": null
+    },
+    {
+        "productname": "Remote Control Emerald",
+        "accessories": null,
+        "productid": 19,
+        "productprice": 30.989999771118164,
+        "categoryid": 5,
+        "categoryname": "accessory",
+        "characteristic_dimensions": null,
+        "characteristic_weight": null,
+        "characteristic_details": null,
+        "characteristic_color": null
+    },
+    {
+        "productname": "Onyx O6X",
+        "accessories": [
+            {
+                "attr_0": 15,
+                "attr_1": "DataP Micro SD card",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 27,
+                "attr_1": "HighSpeed Pro Storage 64GB",
+                "attr_2": 40.5
+            },
+            {
+                "attr_0": 28,
+                "attr_1": "HighSpeed Pro Storage 32GB",
+                "attr_2": 30.5
+            },
+            {
+                "attr_0": 29,
+                "attr_1": "Shield total protection 6\"",
+                "attr_2": 5.0
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 20,
+        "productprice": 679.0,
+        "categoryid": 1,
+        "categoryname": "smartphone",
+        "characteristic_dimensions": "160.75 x 75.8 x 7.10 mm",
+        "characteristic_weight": "130 gr",
+        "characteristic_details": "CPU Speed Qualcomm Snapdragon 725,Octa-core; 64-bit, 8 x 2.4GHz 16GB ,2G GSM/GPRS/EDGE: 850/900/1800/1900; 3G UMTS",
+        "characteristic_color": "black"
+    },
+    {
+        "productname": "Garnet Sphere 3",
+        "accessories": [
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 21,
+        "productprice": 350.0,
+        "categoryid": 2,
+        "categoryname": "tablet",
+        "characteristic_dimensions": "380.50 x 255.25 x 19 mm",
+        "characteristic_weight": "1305 gr",
+        "characteristic_details": "3.0GHz bi-code Core, 8MB L3 cache, 256GB Storage",
+        "characteristic_color": "metalic"
+    },
+    {
+        "productname": "Onyx O6X 32GB",
+        "accessories": [
+            {
+                "attr_0": 15,
+                "attr_1": "DataP Micro SD card",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 29,
+                "attr_1": "Shield total protection 6\"",
+                "attr_2": 5.0
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 22,
+        "productprice": 750.0,
+        "categoryid": 1,
+        "categoryname": "smartphone",
+        "characteristic_dimensions": "160.75 x 75.8 x 7.10 mm",
+        "characteristic_weight": "130 gr",
+        "characteristic_details": "CPU Speed Qualcomm Snapdragon 725,Octa-core; 64-bit, 8 x 2.4GHz 64GB ,2G GSM/GPRS/EDGE: 850/900/1800/1900; 3G UMTS",
+        "characteristic_color": "ceramic"
+    },
+    {
+        "productname": "Onyx O6X 64GB",
+        "accessories": [
+            {
+                "attr_0": 15,
+                "attr_1": "DataP Micro SD card",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 29,
+                "attr_1": "Shield total protection 6\"",
+                "attr_2": 5.0
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 23,
+        "productprice": 799.989990234375,
+        "categoryid": 1,
+        "categoryname": "smartphone",
+        "characteristic_dimensions": "160.75 x 75.8 x 7.10 mm",
+        "characteristic_weight": "130 gr",
+        "characteristic_details": "CPU Speed Qualcomm Snapdragon 725,Octa-core; 64-bit, 8 x 2.4GHz 32GB ,2G GSM/GPRS/EDGE: 850/900/1800/1900; 3G UMTS",
+        "characteristic_color": "black"
+    },
+    {
+        "productname": "Emerald FX 50",
+        "accessories": [
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 19,
+                "attr_1": "Remote Control Emerald",
+                "attr_2": 30.989999771118164
+            },
+            {
+                "attr_0": 31,
+                "attr_1": "Emerald Power",
+                "attr_2": 19.899999618530273
+            }
+        ],
+        "productid": 24,
+        "productprice": 1800.0,
+        "categoryid": 4,
+        "categoryname": "television",
+        "characteristic_dimensions": "815 x 499.2 x 175.5 mm",
+        "characteristic_weight": " 4415 gr",
+        "characteristic_details": "4K UHD HD7700 Series Smart TV - 50' Class (50.0' Diag.)",
+        "characteristic_color": "white"
+    },
+    {
+        "productname": "Emerald FX 60",
+        "accessories": [
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 19,
+                "attr_1": "Remote Control Emerald",
+                "attr_2": 30.989999771118164
+            },
+            {
+                "attr_0": 31,
+                "attr_1": "Emerald Power",
+                "attr_2": 19.899999618530273
+            }
+        ],
+        "productid": 25,
+        "productprice": 2100.0,
+        "categoryid": 4,
+        "categoryname": "television",
+        "characteristic_dimensions": "855 x 525.2 x 200.5 mm",
+        "characteristic_weight": " 5015 gr",
+        "characteristic_details": "4K UHD HD775 Series Smart TV - 60' Class ",
+        "characteristic_color": "white"
+    },
+    {
+        "productname": "Coral C1",
+        "accessories": [
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 26,
+        "productprice": 99.98999786376953,
+        "categoryid": 1,
+        "categoryname": "smartphone",
+        "characteristic_dimensions": "115.75 x 55.8 x 9.26 mm",
+        "characteristic_weight": "155 gr",
+        "characteristic_details": "CPU Dual 550,Dual-core; 32-bit, 2 x 1.2GHz,2G GSM/GPRS/EDGE: 850/900/1800/1900; 3G UMTS",
+        "characteristic_color": "black"
+    },
+    {
+        "productname": "HighSpeed Pro Storage 64GB",
+        "accessories": null,
+        "productid": 27,
+        "productprice": 40.5,
+        "categoryid": 5,
+        "categoryname": "accessory",
+        "characteristic_dimensions": null,
+        "characteristic_weight": null,
+        "characteristic_details": null,
+        "characteristic_color": null
+    },
+    {
+        "productname": "HighSpeed Pro Storage 32GB",
+        "accessories": null,
+        "productid": 28,
+        "productprice": 30.5,
+        "categoryid": 5,
+        "categoryname": "accessory",
+        "characteristic_dimensions": null,
+        "characteristic_weight": null,
+        "characteristic_details": null,
+        "characteristic_color": null
+    },
+    {
+        "productname": "Shield total protection 6\"",
+        "accessories": null,
+        "productid": 29,
+        "productprice": 5.0,
+        "categoryid": 5,
+        "categoryname": "accessory",
+        "characteristic_dimensions": null,
+        "characteristic_weight": null,
+        "characteristic_details": null,
+        "characteristic_color": null
+    },
+    {
+        "productname": "Studio Stereo 2.1 Bluetooth",
+        "accessories": null,
+        "productid": 30,
+        "productprice": 12.25,
+        "categoryid": 5,
+        "categoryname": "accessory",
+        "characteristic_dimensions": null,
+        "characteristic_weight": null,
+        "characteristic_details": null,
+        "characteristic_color": null
+    },
+    {
+        "productname": "Emerald Power",
+        "accessories": null,
+        "productid": 31,
+        "productprice": 19.899999618530273,
+        "categoryid": 5,
+        "categoryname": "accessory",
+        "characteristic_dimensions": null,
+        "characteristic_weight": null,
+        "characteristic_details": null,
+        "characteristic_color": null
+    }
+]

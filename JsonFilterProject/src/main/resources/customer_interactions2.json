@@ -1,0 +1,68 @@
+[
+    {
+        "productname": "Onyx O3",
+        "accessories": [
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 1,
+        "productprice": 298.0,
+        "categoryid": 1,
+        "categoryname": "smartphone",
+        "characteristic_dimensions": "145.75 x 70.8 x 7.26 mm",
+        "characteristic_weight": "125 gr",
+        "characteristic_details": "CPU Speed Qualcomm Snapdragon 617,Octa-core; 64-bit, 4 x 1.5GHz + 4x,1.2GHz,2G GSM/GPRS/EDGE: 850/900/1800/1900; 3G UMTS",
+        "characteristic_color": "black"
+    },
+    {
+        "productname": "Onyx O4",
+        "accessories": [
+            {
+                "attr_0": 15,
+                "attr_1": "DataP Micro SD card",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 16,
+                "attr_1": "HighSpeed Battery Charger 500",
+                "attr_2": 19.989999771118164
+            },
+            {
+                "attr_0": 18,
+                "attr_1": "HeadSet Total audio 15",
+                "attr_2": 25.75
+            },
+            {
+                "attr_0": 28,
+                "attr_1": "HighSpeed Pro Storage 32GB",
+                "attr_2": 30.5
+            },
+            {
+                "attr_0": 30,
+                "attr_1": "Studio Stereo 2.1 Bluetooth",
+                "attr_2": 12.25
+            }
+        ],
+        "productid": 2,
+        "productprice": 385.0,
+        "categoryid": 1,
+        "categoryname": "smartphone",
+        "characteristic_dimensions": "148.25 x 71.8 x 7.56 mm",
+        "characteristic_weight": "135 gr",
+        "characteristic_details": "CPU Speed Qualcomm Snapdragon 618,Octa-core; 64-bit, 4 x 1.7GHz + 4x,1.3GHz,2G GSM/GPRS/EDGE: 850/900/1800/1900; 3G UMTS",
+        "characteristic_color": "grey"
+    }
+]

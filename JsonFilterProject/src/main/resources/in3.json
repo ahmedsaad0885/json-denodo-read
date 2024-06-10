@@ -1,0 +1,716 @@
+[
+  {
+    "name": "Dune",
+    "author": "Frank Herbert",
+    "year": "1965",
+    "price": "10.99",
+    "words": "187,000",
+    "chapters": "3",
+    "pages": "412"
+  },
+  {
+    "name": "Foundation",
+    "author": "Isaac Asimov",
+    "year": "1951",
+    "price": "9.99",
+    "words": "240,000",
+    "chapters": "5",
+    "pages": "296"
+  },
+  {
+    "name": "1984",
+    "author": "George Orwell",
+    "year": "1949",
+    "price": "8.99",
+    "words": "88,942",
+    "chapters": "3",
+    "pages": "328"
+  },
+  {
+    "name": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": "1932",
+    "price": "7.99",
+    "words": "64,531",
+    "chapters": "18",
+    "pages": "311"
+  },
+  {
+    "name": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "year": "1979",
+    "price": "11.99",
+    "words": "46,333",
+    "chapters": "35",
+    "pages": "224"
+  },
+  {
+    "name": "Neuromancer",
+    "author": "William Gibson",
+    "year": "1984",
+    "price": "10.99",
+    "words": "80,000",
+    "chapters": "9",
+    "pages": "271"
+  },
+  {
+    "name": "Snow Crash",
+    "author": "Neal Stephenson",
+    "year": "1992",
+    "price": "9.99",
+    "words": "104,000",
+    "chapters": "69",
+    "pages": "440"
+  },
+  {
+    "name": "Ender's Game",
+    "author": "Orson Scott Card",
+    "year": "1985",
+    "price": "8.99",
+    "words": "100,609",
+    "chapters": "15",
+    "pages": "324"
+  },
+  {
+    "name": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "year": "1898",
+    "price": "7.99",
+    "words": "61,189",
+    "chapters": "17",
+    "pages": "192"
+  },
+  {
+    "name": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": "1953",
+    "price": "9.99",
+    "words": "46,118",
+    "chapters": "3",
+    "pages": "249"
+  },
+  {
+    "name": "The Martian",
+    "author": "Andy Weir",
+    "year": "2011",
+    "price": "10.99",
+    "words": "105,000",
+    "chapters": "28",
+    "pages": "369"
+  },
+  {
+    "name": "I, Robot",
+    "author": "Isaac Asimov",
+    "year": "1950",
+    "price": "8.99",
+    "words": "73,531",
+    "chapters": "9",
+    "pages": "248"
+  },
+  {
+    "name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "year": "2008",
+    "price": "9.99",
+    "words": "99,750",
+    "chapters": "27",
+    "pages": "374"
+  },
+  {
+    "name": "The Time Machine",
+    "author": "H.G. Wells",
+    "year": "1895",
+    "price": "7.99",
+    "words": "33,528",
+    "chapters": "12",
+    "pages": "118"
+  },
+  {
+    "name": "The Matrix",
+    "author": "Laurence Fishburne",
+    "year": "1999",
+    "price": "9.99",
+    "words": "176,040",
+    "chapters": "1",
+    "pages": "412"
+  },
+  {
+    "name": "Jurassic Park",
+    "author": "Michael Crichton",
+    "year": "1990",
+    "price": "8.99",
+    "words": "138,094",
+    "chapters": "7",
+    "pages": "448"
+  },
+  {
+    "name": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "year": "1985",
+    "price": "10.99",
+    "words": "100,000",
+    "chapters": "46",
+    "pages": "311"
+  },
+  {
+    "name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": "1954",
+    "price": "14.99",
+    "words": "455,125",
+    "chapters": "6",
+    "pages": "1,178"
+  },
+  {
+    "name": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "year": "1950",
+    "price": "12.99",
+    "words": "189,048",
+    "chapters": "17",
+    "pages": "766"
+  },
+  {
+    "name": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "year": "1962",
+    "price": "9.99",
+    "words": "49,965",
+    "chapters": "12",
+    "pages": "228"
+  },
+  {
+    "name": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "year": "1898",
+    "price": "7.99",
+    "words": "61,189",
+    "chapters": "17",
+    "pages": "192"
+  },
+  {
+    "name": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": "1953",
+    "price": "9.99",
+    "words": "46,118",
+    "chapters": "3",
+    "pages": "249"
+  },
+  {
+    "name": "The Martian",
+    "author": "Andy Weir",
+    "year": "2011",
+    "price": "10.99",
+    "words": "105,000",
+    "chapters": "28",
+    "pages": "369"
+  },
+  {
+    "name": "I, Robot",
+    "author": "Isaac Asimov",
+    "year": "1950",
+    "price": "8.99",
+    "words": "73,531",
+    "chapters": "9",
+    "pages": "248"
+  },
+  {
+    "name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "year": "2008",
+    "price": "9.99",
+    "words": "99,750",
+    "chapters": "27",
+    "pages": "374"
+  },
+  {
+    "name": "The Time Machine",
+    "author": "H.G. Wells",
+    "year": "1895",
+    "price": "7.99",
+    "words": "33,528",
+    "chapters": "12",
+    "pages": "118"
+  },
+  {
+    "name": "The Matrix",
+    "author": "Laurence Fishburne",
+    "year": "1999",
+    "price": "9.99",
+    "words": "176,040",
+    "chapters": "1",
+    "pages": "412"
+  },
+  {
+    "name": "Jurassic Park",
+    "author": "Michael Crichton",
+    "year": "1990",
+    "price": "8.99",
+    "words": "138,094",
+    "chapters": "7",
+    "pages": "448"
+  },
+  {
+    "name": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "year": "1985",
+    "price": "10.99",
+    "words": "100,000",
+    "chapters": "46",
+    "pages": "311"
+  },
+  {
+    "name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": "1954",
+    "price": "14.99",
+    "words": "455,125",
+    "chapters": "6",
+    "pages": "1,178"
+  },
+  {
+    "name": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "year": "1950",
+    "price": "12.99",
+    "words": "189,048",
+    "chapters": "17",
+    "pages": "766"
+  },
+  {
+    "name": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "year": "1962",
+    "price": "9.99",
+    "words": "49,965",
+    "chapters": "12",
+    "pages": "228"
+  },
+  {
+    "name": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "year": "1898",
+    "price": "7.99",
+    "words": "61,189",
+    "chapters": "17",
+    "pages": "192"
+  },
+  {
+    "name": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": "1953",
+    "price": "9.99",
+    "words": "46,118",
+    "chapters": "3",
+    "pages": "249"
+  },
+  {
+    "name": "The Martian",
+    "author": "Andy Weir",
+    "year": "2011",
+    "price": "10.99",
+    "words": "105,000",
+    "chapters": "28",
+    "pages": "369"
+  },
+  {
+    "name": "I, Robot",
+    "author": "Isaac Asimov",
+    "year": "1950",
+    "price": "8.99",
+    "words": "73,531",
+    "chapters": "9",
+    "pages": "248"
+  },
+  {
+    "name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "year": "2008",
+    "price": "9.99",
+    "words": "99,750",
+    "chapters": "27",
+    "pages": "374"
+  },
+  {
+    "name": "The Time Machine",
+    "author": "H.G. Wells",
+    "year": "1895",
+    "price": "7.99",
+    "words": "33,528",
+    "chapters": "12",
+    "pages": "118"
+  },
+  {
+    "name": "The Matrix",
+    "author": "Laurence Fishburne",
+    "year": "1999",
+    "price": "9.99",
+    "words": "176,040",
+    "chapters": "1",
+    "pages": "412"
+  },
+  {
+    "name": "Jurassic Park",
+    "author": "Michael Crichton",
+    "year": "1990",
+    "price": "8.99",
+    "words": "138,094",
+    "chapters": "7",
+    "pages": "448"
+  },
+  {
+    "name": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "year": "1985",
+    "price": "10.99",
+    "words": "100,000",
+    "chapters": "46",
+    "pages": "311"
+  },
+  {
+    "name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": "1954",
+    "price": "14.99",
+    "words": "455,125",
+    "chapters": "6",
+    "pages": "1,178"
+  },
+  {
+    "name": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "year": "1950",
+    "price": "12.99",
+    "words": "189,048",
+    "chapters": "17",
+    "pages": "766"
+  },
+  {
+    "name": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "year": "1962",
+    "price": "9.99",
+    "words": "49,965",
+    "chapters": "12",
+    "pages": "228"
+  },
+  {
+    "country": "France",
+    "continent": "Europe",
+    "population": "67000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Thailand",
+    "continent": "Asia",
+    "population": "69000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Australia",
+    "continent": "Oceania",
+    "population": "25000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Brazil",
+    "continent": "South America",
+    "population": "209000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Canada",
+    "continent": "North America",
+    "population": "37000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Egypt",
+    "continent": "Africa",
+    "population": "97000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Japan",
+    "continent": "Asia",
+    "population": "126000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Mexico",
+    "continent": "North America",
+    "population": "129000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "South Africa",
+    "continent": "Africa",
+    "population": "56000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Spain",
+    "continent": "Europe",
+    "population": "46000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "United States",
+    "continent": "North America",
+    "population": "325000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "China",
+    "continent": "Asia",
+    "population": "1386000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "India",
+    "continent": "Asia",
+    "population": "1324000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Russia",
+    "continent": "Europe",
+    "population": "144000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "population": "66000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Germany",
+    "continent": "Europe",
+    "population": "83000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Italy",
+    "continent": "Europe",
+    "population": "60000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Argentina",
+    "continent": "South America",
+    "population": "44000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Colombia",
+    "continent": "South America",
+    "population": "49000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Peru",
+    "continent": "South America",
+    "population": "32000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Venezuela",
+    "continent": "South America",
+    "population": "31000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Chile",
+    "continent": "South America",
+    "population": "18000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Ecuador",
+    "continent": "South America",
+    "population": "17000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Bolivia",
+    "continent": "South America",
+    "population": "11000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Paraguay",
+    "continent": "South America",
+    "population": "7000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Uruguay",
+    "continent": "South America",
+    "population": "3400000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Cuba",
+    "continent": "North America",
+    "population": "11000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Haiti",
+    "continent": "North America",
+    "population": "11000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Dominican Republic",
+    "continent": "North America",
+    "population": "10000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Jamaica",
+    "continent": "North America",
+    "population": "2700000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Bahamas",
+    "continent": "North America",
+    "population": "400000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Puerto Rico",
+    "continent": "North America",
+    "population": "3400000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Greece",
+    "continent": "Europe",
+    "population": "11000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Turkey",
+    "continent": "Europe",
+    "population": "80000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Thailand",
+    "continent": "Asia",
+    "population": "69000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Morocco",
+    "continent": "Africa",
+    "population": "34000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Tunisia",
+    "continent": "Africa",
+    "population": "11000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Kenya",
+    "continent": "Africa",
+    "population": "46000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Nigeria",
+    "continent": "Africa",
+    "population": "186000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Ethiopia",
+    "continent": "Africa",
+    "population": "102000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Tanzania",
+    "continent": "Africa",
+    "population": "55000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Uganda",
+    "continent": "Africa",
+    "population": "40000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Algeria",
+    "continent": "Africa",
+    "population": "40000000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Angola",
+    "continent": "Africa",
+    "population": "25800000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Cameroon",
+    "continent": "Africa",
+    "population": "23000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Ivory Coast",
+    "continent": "Africa",
+    "population": "24000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Madagascar",
+    "continent": "Africa",
+    "population": "24000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Malawi",
+    "continent": "Africa",
+    "population": "18000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Mali",
+    "continent": "Africa",
+    "population": "18000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Mauritius",
+    "continent": "Africa",
+    "population": "1300000",
+    "expensuve": "true"
+  },
+  {
+    "country": "Namibia",
+    "continent": "Africa",
+    "population": "2500000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Rwanda",
+    "continent": "Africa",
+    "population": "12000000",
+    "expensuve": "false"
+  },
+  {
+    "country": "Senegal",
+    "continent": "Africa",
+    "population": "15000000",
+    "expensuve": "false"
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "customer_code_internal": "06qpBmpsIxF",
+        "first_name": "Joe",
+        "last_name": "Lewis",
+        "email": "jlewis0@statcounter.com",
+        "phone": "55-(653)585-2837",
+        "registered_date": "2015-07-17 19:04:00",
+        "address": {
+            "attr_0": "0380 Saint Paul Plaza",
+            "attr_1": null,
+            "attr_2": "Brazil"
+        }
+    },
+    {
+        "id": 2,
+        "customer_code_internal": "0eojpyssKl",
+        "first_name": "Chris",
+        "last_name": "Spencer",
+        "email": "cspencer1@biblegateway.com",
+        "phone": "1-(702)579-5435",
+        "registered_date": "2014-04-01 07:07:00",
+        "address": {
+            "attr_0": "66 Northwestern Circle",
+            "attr_1": "89155",
+            "attr_2": "United States"
+        }
+    }
+]
