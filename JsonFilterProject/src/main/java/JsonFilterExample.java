@@ -6,94 +6,67 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.File;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
-import java.util.Map;
 
 public class JsonFilterExample {
 
-    public static void main(String[] args) {
-        try {
-            //initialize factory and parser to be utilized in streaming
-            JsonFactory factory = new JsonFactory();
-            JsonParser parser = factory.createParser(new File("src/main/resources/customer_interactions_mega.json"));
+public static List<List<String>> initializeAndPopulateList(String filePath){
+try{
+    //initialize factory and parser to be utilized in streaming
+    JsonFactory factory = new JsonFactory();
+    JsonParser parser = factory.createParser(new File(filePath));
 
-            //mapper to convert the json content to jsonnode , then have two lists one for simple structures and one for complex ones
-            ObjectMapper mapper = new ObjectMapper();
-            //List<JsonNode> jsonNodeList = new ArrayList<>();
-            //List<List<String>> listOfLists = new ArrayList<>();
+    //mapper to convert the json content to jsonnode , then have two lists one for simple structures and one for complex ones
+    ObjectMapper mapper = new ObjectMapper();
+    List<List<String>> listOfLists = new ArrayList<>();
 
-            //a generic list variable to hold the results, determined at runtime based on the JSON complexity.
-            List<?> resultList = null;
+    while (!parser.isClosed()) {
+        JsonToken token = parser.nextToken();
 
-            //for determining if the json content is to be handled as list of lists or as list of jsonnode
-            boolean isComplex = false;
+        //check if the token of a json array or a json object, is complex or not
+        if (token == JsonToken.START_OBJECT || token == JsonToken.START_ARRAY) {
+            JsonNode node = mapper.readTree(parser);
 
-            //determine if the file has complex structures using the first element only
-            JsonNode firstNode = mapper.readTree(parser);
-            isComplex = isComplexStructure(firstNode);
-            System.out.println("Detected structure as "+ (isComplex? "complex": "simple"));
+                extractValuesToListOfLists(node, listOfLists);
 
-            if(isComplex){
-                System.out.println("Extracting values to JsonNode list");
-                resultList = new ArrayList<JsonNode>();
-                extractValuesToJsonNodeList(firstNode, (List<JsonNode>) resultList);
-            }
-            else {
-                System.out.println("extracting values to list of lists");
-                resultList = new ArrayList<List<String>>();
-                extractValuesToListOfLists(firstNode, (List<List<String>>) resultList);
-            }
-
-            while (!parser.isClosed()) {
-               JsonToken token = parser.nextToken();
-
-                //check if the token of a json array or a json object, is complex or not
-                if (token == JsonToken.START_OBJECT || token == JsonToken.START_ARRAY) {
-                    JsonNode node = mapper.readTree(parser);
-
-                    if (isComplex) {
-                        extractValuesToJsonNodeList(node, (List<JsonNode>) resultList);
-                    } else {
-                        extractValuesToListOfLists(node, (List<List<String>>) resultList);
-                    }
-                }
-            }
-
-            printDebugInfo(resultList, isComplex);
-
-        } catch (Exception e) {
-            e.printStackTrace();
         }
     }
+    return listOfLists;
 
-    private static boolean isComplexStructure(JsonNode node) {
-        if (node.isObject()) {
-            Iterator<Map.Entry<String, JsonNode>> fields = node.fields();
-            while (fields.hasNext()) {
-                Map.Entry<String, JsonNode> field = fields.next();
-                if (field.getValue().isObject() || field.getValue().isArray()) {
-                    System.out.println("Found complex field: " + field.getKey());
-                    return true;
-                }
-            }
-        } else if (node.isArray()) {
-            if (node.size() > 0) {
-                JsonNode firstElement = node.get(0);
-                Iterator<Map.Entry<String, JsonNode>> fields = firstElement.fields();
-                while (fields.hasNext()) {
-                    Map.Entry<String, JsonNode> field = fields.next();
-                    if (field.getValue().isObject() || field.getValue().isArray()) {
-                        System.out.println("Found complex field in array: " + field.getKey());
-                        return true;
-                    }
-                }
+} catch (Exception e) {
+        e.printStackTrace();
+    }List<List<String>> listOfLists = new ArrayList<>();
+    return listOfLists;
+}
+
+public static List<JsonNode> initializeAndPopulateJsonNode(String filePath){
+    try{
+        //initialize factory and parser to be utilized in streaming
+        JsonFactory factory = new JsonFactory();
+        JsonParser parser = factory.createParser(new File(filePath));
+
+        //mapper to convert the json content to jsonnode , then have two lists one for simple structures and one for complex ones
+        ObjectMapper mapper = new ObjectMapper();
+        List<JsonNode> jsonNodeList = new ArrayList<>();
+
+        while (!parser.isClosed()) {
+            JsonToken token = parser.nextToken();
+
+            //check if the token of a json array or a json object, is complex or not
+            if (token == JsonToken.START_OBJECT || token == JsonToken.START_ARRAY) {
+                JsonNode node = mapper.readTree(parser);
+
+                    extractValuesToJsonNodeList(node, jsonNodeList);
             }
         }
-        return false;
+
+        return jsonNodeList;
+    } catch (Exception e) {
+        e.printStackTrace();
     }
-
-
+    List<JsonNode> jsonNodeList = new ArrayList<>();
+    return jsonNodeList;
+}
     private static void extractValuesToJsonNodeList(JsonNode node, List<JsonNode> jsonNodeList) {
         // if the node is an array iterate through the array and add it to the list
         if (node.isArray()) {
@@ -120,17 +93,4 @@ public class JsonFilterExample {
         }
     }
 
-    private static void printDebugInfo(List<?> resultList, boolean isComplex) {
-        if (isComplex) {
-            System.out.println("JSON Node List:");
-            for (JsonNode node : (List<JsonNode>) resultList) {
-                System.out.println(node.toPrettyString());
-            }
-        } else {
-            System.out.println("\nList of Lists:");
-            for (List<String> list : (List<List<String>>) resultList) {
-                System.out.println(list);
-            }
-        }
-    }
 }

@@ -2,16 +2,16 @@
     {
         "name": "John Doe",
         "age": 30,
-        "city": "New York"
+        "city": ["New York","add1"]
     },
     {
         "name": "Jane Smith",
         "age": 25,
-        "city": ["Los Angeles","meo"]
+        "city": ["Los Angeles","add2"]
     },
     {
         "name": "Emily Johnson",
         "age": 35,
-        "city": "Chicago"
+        "city": ["Chicago","add3"]
     }
 ]
